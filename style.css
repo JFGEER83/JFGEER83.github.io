@@ -1,5 +1,7 @@
-h1{
+html{
     font-family: sans-serif;
+}
+h1{
     font-size: 5rem;
     color: rgb(66, 128, 209);
 }
