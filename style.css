@@ -6,6 +6,11 @@
 html{
     font-family: sans-serif;
 }
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 2em;
+}
 h1{
     font-size: 5rem;
     color: rgb(66, 128, 209);
