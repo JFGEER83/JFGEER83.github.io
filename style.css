@@ -18,3 +18,15 @@ h3{
     font-size: 1.8rem;
     color: red;
 }
+button{
+    border: none;
+    padding: 2em;
+    color: rgb(221, 221, 221);
+    font-size: 2em;
+    background-color: crimson;
+}
+button:hover{
+    background-color: none;
+    border: 1px solid crimson;
+    color: crimson;
+}
