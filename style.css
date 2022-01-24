@@ -26,13 +26,13 @@ h3{
 }
 button{
     border: none;
-    padding: 2em;
     color: rgb(221, 221, 221);
     font-size: 2em;
     background-color: crimson;
+    padding: 0.8em;
 }
 button:hover{
-    background-color: none;
+    background-color: rgb(202, 183, 187);
     border: 1px solid crimson;
     color: crimson;
 }
