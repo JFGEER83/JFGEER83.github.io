@@ -8,8 +8,9 @@ html{
 }
 a{
     text-decoration: none;
-    color: black;
+    color: rgb(56, 112, 196);
     font-size: 2em;
+    border: 2px solid rgb(48, 69, 187);
 }
 h1{
     font-size: 5rem;
